@@ -1,0 +1,21 @@
+.container{
+    height: 85%;
+    background-color: #363434;
+} 
+
+.mat-sidenav{
+    background-color: #424242;
+}
+
+i{
+    padding-right: 0.6rem;
+}
+
+.mat-drawer-container {
+    color: white;
+}
+
+.mat-list-base .mat-list-item{
+    color: white;
+}
+
