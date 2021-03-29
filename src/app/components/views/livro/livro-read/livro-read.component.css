@@ -1,0 +1,25 @@
+form {
+    width: 90%;
+    margin: auto;
+    
+}
+
+.home {
+    margin: 1rem  auto;
+    text-align: center;
+    background-color: #424242;
+    
+}
+
+button {
+    width: 100%;
+}
+
+.title {
+    color: white;        
+}
+
+.title-text {
+    color: white;
+    text-align: justify;
+}
